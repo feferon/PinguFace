@@ -1,0 +1,31 @@
+{
+    "author": "fefebble",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pinguface",
+    "pebble": {
+        "displayName": "PinguFace",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/ingaemma_c.png",
+                    "name": "ingaemma_c",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "09cd0104-7bc4-4351-9e35-576c27ea1544",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "3.0.0"
+}
